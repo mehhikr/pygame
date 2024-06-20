@@ -1,3 +1,8 @@
+'''
+pygame has to be the least developer friendly platform
+very simple ball catching game
+'''
+
 import pygame
 import random
 import sys
